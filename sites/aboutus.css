@@ -5,7 +5,7 @@ body{
 }
 
 .about-banner-img{
-    background-image: url("/images/about-banner.jpg");
+    background-image: url("/assets/images/about-banner.jpg");
     width: 100%;
     height: 400px;
 }
